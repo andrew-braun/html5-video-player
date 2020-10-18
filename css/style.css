@@ -70,7 +70,7 @@ h1 {
 }
 
 .controls .fa-pause-circle {
-	color: var(white);
+	color: var(--white);
 }
 
 .controls .timestamp {
