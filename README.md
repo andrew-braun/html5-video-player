@@ -1,4 +1,4 @@
-# Simple Form with Validation
+# HTML5 Video Player
 
 A learning project to familiarize myself with the HTML5 video API and making custom player controls.
 
